@@ -1,0 +1,8 @@
+# _config.yml
+title: Math Tutorial
+author: chub
+description: >- # this means to ignore newlines until "baseurl:"
+  A step-by-step guide to understanding advanced mathematics, 
+  with formulas and quizzes.
+
+# You can leave the rest empty for now
